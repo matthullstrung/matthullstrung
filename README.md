@@ -1,6 +1,6 @@
 ### Hi, I'm Matt 👋
-- 🔭 I’m currently working on a research project in iris detection
-- 🌱 I’m always looking for more ways to help develop my skills in Unity and Unreal Engine
+- 🔭 I’m currently working on an [NLP project](https://github.com/matthullstrung/nlp-VAERS) to automatically extract and link COVID vaccine symptoms
+- 🌱 I’m always looking for more ways to help develop my skills in all areas of machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matthullstrung/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love building custom computers, keyboards, and mice
+- ⚡ Fun facts: I love building computers, playing ultimate frisbee, and anything AI
